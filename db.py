@@ -1,0 +1,16 @@
+from flask import Flask
+from flask_sqlalchemy import SQLAlchemy
+
+db = SQLAlchemy()
+
+
+
+
+
+
+
+
+
+# Örnek veri
+#stores = {}
+#items = {}
